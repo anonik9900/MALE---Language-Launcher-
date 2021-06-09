@@ -1,0 +1,18 @@
+C:\Users\impie\AppData\Local\Temporary Projects\Mass Effect LE Launcher\bin\Debug\Mass Effect LE Launcher.exe
+C:\Users\impie\AppData\Local\Temporary Projects\Mass Effect LE Launcher\bin\Debug\Mass Effect LE Launcher.pdb
+C:\Users\impie\AppData\Local\Temporary Projects\Mass Effect LE Launcher\bin\Debug\Mass Effect LE Launcher.xml
+C:\Users\impie\AppData\Local\Temporary Projects\Mass Effect LE Launcher\obj\x86\Debug\Mass_Effect_LE_Launcher.Form1.resources
+C:\Users\impie\AppData\Local\Temporary Projects\Mass Effect LE Launcher\obj\x86\Debug\Mass_Effect_LE_Launcher.Resources.resources
+C:\Users\impie\AppData\Local\Temporary Projects\Mass Effect LE Launcher\obj\x86\Debug\Mass Effect LE Launcher.vbproj.GenerateResource.Cache
+C:\Users\impie\AppData\Local\Temporary Projects\Mass Effect LE Launcher\obj\x86\Debug\Mass Effect LE Launcher.exe
+C:\Users\impie\AppData\Local\Temporary Projects\Mass Effect LE Launcher\obj\x86\Debug\Mass Effect LE Launcher.xml
+C:\Users\impie\AppData\Local\Temporary Projects\Mass Effect LE Launcher\obj\x86\Debug\Mass Effect LE Launcher.pdb
+C:\Users\impie\Desktop\Mass Effect Ita LAUNCHER\Mass Effect LE Launcher\Mass Effect LE Launcher\obj\x86\Debug\Mass Effect LE Launcher.exe
+C:\Users\impie\Desktop\Mass Effect Ita LAUNCHER\Mass Effect LE Launcher\Mass Effect LE Launcher\obj\x86\Debug\Mass Effect LE Launcher.xml
+C:\Users\impie\Desktop\Mass Effect Ita LAUNCHER\Mass Effect LE Launcher\Mass Effect LE Launcher\obj\x86\Debug\Mass Effect LE Launcher.pdb
+C:\Users\impie\Desktop\Mass Effect Ita LAUNCHER\Mass Effect LE Launcher\Mass Effect LE Launcher\bin\Debug\Mass Effect LE Launcher.exe
+C:\Users\impie\Desktop\Mass Effect Ita LAUNCHER\Mass Effect LE Launcher\Mass Effect LE Launcher\bin\Debug\Mass Effect LE Launcher.pdb
+C:\Users\impie\Desktop\Mass Effect Ita LAUNCHER\Mass Effect LE Launcher\Mass Effect LE Launcher\bin\Debug\Mass Effect LE Launcher.xml
+C:\Users\impie\Desktop\Mass Effect Ita LAUNCHER\Mass Effect LE Launcher\Mass Effect LE Launcher\obj\x86\Debug\Mass_Effect_LE_Launcher.Form1.resources
+C:\Users\impie\Desktop\Mass Effect Ita LAUNCHER\Mass Effect LE Launcher\Mass Effect LE Launcher\obj\x86\Debug\Mass_Effect_LE_Launcher.Resources.resources
+C:\Users\impie\Desktop\Mass Effect Ita LAUNCHER\Mass Effect LE Launcher\Mass Effect LE Launcher\obj\x86\Debug\Mass Effect LE Launcher.vbproj.GenerateResource.Cache
